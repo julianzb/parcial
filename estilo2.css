@@ -1,0 +1,39 @@
+.james
+{
+	width: 500px;
+	height: 400px;
+	border: solid 5px;
+	margin-right: -800px;
+}
+
+.body
+{
+	background:url(b.jpg);
+	width: 500px;
+	height: 500px;
+	background-size: cover;
+	
+}
+
+.inicio
+{
+  margin-right: -800px;
+  
+}
+.inicio{	
+	
+	text-decoration: none;
+	font-family: arial;
+    font-weight: 300;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    border-radius: 6px;
+    border: 2px solid black;
+  }
+  .inicio:hover{
+    color: black;
+    background-color: white;
+
+}
+
